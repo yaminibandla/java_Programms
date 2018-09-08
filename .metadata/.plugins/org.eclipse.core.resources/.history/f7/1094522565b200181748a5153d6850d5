@@ -1,0 +1,10 @@
+package programsjava;
+
+public class Reverseofhexagonal {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
